@@ -3,26 +3,28 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MishraTanishq619" alt="MishraTanishq619" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/rishavchanda" target="blank"><img src="https://img.shields.io/twitter/follow/rishavchanda?logo=twitter&style=for-the-badge" alt="rishavchanda"  </p>
 
-- 🔭 I’m currently working on **Vexa Web App**
+- 🔭 I’m currently working on **WebRTC Projects**
 
-- 🌱 I’m currently learning **DevOps**
+- 🌱 I’m currently learning **Backend, DevOps**
 
-- 💬 Ask me about **Android , MEARN**
+- 💬 Ask me about **MERN, Django, Flask**
 
-- 📫 How to reach me **rishavchanda0@gmail.com**
+- 📫 How to reach me **mishratanishq619@gmail.com**
 
-- ⚡ Fun fact **I am Funny**
+- ⚡ Fun fact **Actually I am the ,, 'SpyderMan'**
 
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/tanishqmishra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tanishqmishra" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/--" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="--" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/--" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="--" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/--" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="--" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/tanishq-mishra-495541255/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tanishqmishra" height="30" width="40" /></a>
+  
+<a href="https://www.codechef.com/users/tanishq619" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="--" height="30" width="40" /></a>
+  
+<a href="https://www.hackerrank.com/profile/mishratanishq619" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="--" height="30" width="40" /></a>
+
+<a href="https://leetcode.com/Tannu619/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="--" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
