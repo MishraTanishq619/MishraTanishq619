@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Portfolio Projects**
 
-- 🌱 I’m currently learning **Node.Js**
+- 🌱 I’m currently learning **Next.Js**
 
 - 💬 Ask me about **MERN, Django, Flask**
 
